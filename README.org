@@ -1,0 +1,6 @@
+# -*- mode: org; buffer-read-only: nil; truncate-lines: nil; fill-column: 84 -*-
+#+STARTUP: showall
+#+OPTIONS: ^:{} toc:nil num:nil date:nil author:nil
+#+BIND: org-html-toplevel-hlevel 3
+
+* pygdrive
